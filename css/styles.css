@@ -1,7 +1,7 @@
 body {
-    color: ;
-    background-color: ;
-    font-family: ;
+    color: #2e2f42;
+    background-color: #fff;
+    font-family: "Raleway", sans-serif;;
 }
 
 a {
@@ -11,4 +11,18 @@ a {
 ul,
 ol {
     list-style-type: none;
+}
+
+.logo {
+    font-family: 
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2e2f42;
+}
+
+.starter-page {
+    background-color: #2e2f42;
 }

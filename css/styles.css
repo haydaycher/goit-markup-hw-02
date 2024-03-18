@@ -1,5 +1,5 @@
 body {
-color: #2e2f42;
+color: #434455;
 background-color: #FFFFFF;
 font-family: "Roboto", sans-serif;
 }
@@ -16,23 +16,27 @@ ol {
 list-style-type: none;
 }
 
-.visually-hidden {
+/* .visually-hidden {
 display: none;
-}
+} */
 
 .logo {
 text-decoration: none;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16;
+line-height: 1.17;
 text-transform: uppercase;
-color: #2e2f42;
+color: #4d5ae5;
 letter-spacing: 0.03em;
 }
 
 .logo-web {
 color: #4d5ae5;
+}
+
+.logo-studio {
+color: #2e2f42;
 }
 
 .info-header {

@@ -20,7 +20,7 @@ list-style-type: none;
 display: none;
 }
 
-.logo-page {
+.logo {
 text-decoration: none;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -35,14 +35,14 @@ letter-spacing: 0.03em;
 color: #4d5ae5;
 }
 
-.info-page {
+.info-header {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.info-page-link {
+.info-header-link {
 text-decoration: none;
 font-weight: 500;
 font-size: 16px;
@@ -194,5 +194,9 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+color: #f4f4fd;
+}
+
+.logo-footer {
 color: #f4f4fd;
 }

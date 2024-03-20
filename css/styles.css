@@ -35,10 +35,6 @@ color: #f4f4fd;
 color: #2e2f42;
 }
 
-.logo-studio-footer {
-color: #f4f4fd;
-}
-
 .info-header {
 font-weight: 500;
 font-size: 16px;
@@ -127,6 +123,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+.team-section {
+background-color: #F4F4FD;
+}
+
 .second-headlines {
 font-weight: 700;
 font-size: 36px;
@@ -137,6 +137,9 @@ color: #2e2f42;
 text-transform: capitalize;
 }
 
+.crew-members {
+background-color: #FFFFFF;
+}
 .member-name {
 font-weight: 500;
 font-size: 20px;
@@ -189,4 +192,8 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+}
+
+.logo-studio-footer {
+color: #f4f4fd;
 }
